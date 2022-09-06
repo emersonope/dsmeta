@@ -4,7 +4,7 @@
 
 https://www.figma.com/file/oDyi3LZOTeYaUcs8obHZwR/DSMeta1?node-id=9%3A581
 
-# Mean languages used in this projet
+# Languages used in this projet
 
 - Java
 - SpringBoot
