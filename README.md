@@ -1,8 +1,8 @@
 # Checklist
 
-## Design Figma
+## Figma Design 
 
-https://www.figma.com/file/oDyi3LZOTeYaUcs8obHZwR/DSMeta1?node-id=9%3A581
+<p>Click to check the template: <a href="https://www.figma.com/file/oDyi3LZOTeYaUcs8obHZwR/DSMeta1?node-id=9%3A581" target="_blank" rel="noopener noreferrer">DSMetaDesign</a>.</p>
 
 # Languages used in this project
 
