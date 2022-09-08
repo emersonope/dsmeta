@@ -6,6 +6,7 @@
 - SpringBoot 2.7.1
 - ReactJs
 - Heroku CLI
+- Twilio for SMS service
 
 ## Requirements to run the project:
 - Java 17 installed
