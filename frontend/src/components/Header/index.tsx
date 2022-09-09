@@ -5,7 +5,7 @@ function Header() {
     return (
         <header>
             <div className="dsmeta-logo-container">
-                <Logo />
+                <Logo aria-label="DSMeta-Logo"/>
                 <h1>DSMeta</h1>
                 <p>Desenvolvido por
                     <a href="https://www.linkedin.com/in/emersonope/">@emersonope</a>

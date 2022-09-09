@@ -18,7 +18,7 @@ function handleclick(id: number) {
 function NotificationButton( {saleId} : Props) {
     return (
         <div className="dsmeta-red-btn" onClick={() => handleclick(saleId)}>
-            <NotificationIcon />
+            <NotificationIcon aria-label="Notify"/>
        </div>
         
     )
