@@ -1,13 +1,15 @@
 # Checklist
 
-## Languages used in this project
+## Languages and tools used in this project
 
-- Java
-- SpringBoot
+- Java 17
+- SpringBoot 2.7.1
 - ReactJs
+- Heroku CLI
+- Twilio for SMS service
 
 ## Requirements to run the project:
-- Java installed
+- Java 17 installed
 - IntelliJ (or any IDE you like)
 - Git installed
 - download the project in this repository
