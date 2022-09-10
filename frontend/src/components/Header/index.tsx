@@ -1,4 +1,4 @@
-import { Logo } from '../iconComponent'
+import { Logo } from '../Icon'
 import './styles.css';
 
 function Header() {
