@@ -1,6 +1,6 @@
 import axios from 'axios';
 import { toast } from 'react-toastify';
-import {NotificationIcon} from '../Icon'
+import {SvgNotification} from '../Icon'
 import { BASE_URL } from '../../utils/request';
 import './styles.css';
 
@@ -8,7 +8,7 @@ type Props = {
     saleId: number;
 }
 
-function handleclick(id: number) {
+function handleClick(id: number) {
     axios(`${BASE_URL}/sales/${id}/notification`)
         .then(response => {
             toast.info("SMS sent successfully")
@@ -17,8 +17,8 @@ function handleclick(id: number) {
 
 function NotificationButton( {saleId} : Props) {
     return (
-        <div className="dsmeta-red-btn" onClick={() => handleclick(saleId)}>
-            <NotificationIcon aria-label="Notify"/>
+        <div className="dsmeta-red-btn" onClick={() => handleClick(saleId)}>
+            <SvgNotification aria-label="Notify"/>
        </div>
         
     )

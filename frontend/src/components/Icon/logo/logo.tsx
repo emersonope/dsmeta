@@ -1,6 +1,6 @@
 import * as React from "react";
 
-function logo() {
+function Logo() {
     return (
         <svg width="235" height="107" viewBox="0 0 235 107" fill="none" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
             <rect width="235" height="106.071" fill="url(#pattern0)" />
@@ -14,4 +14,4 @@ function logo() {
     );
 }
 
-export default logo
+export default Logo

@@ -1,6 +1,6 @@
 import * as React from "react";
 
-function svgNotification() {
+function SvgNotification() {
     return (
         <svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M16.0896 6.80525C16.0896 3.36496 13.3022 0.577576 9.86192 0.577576C6.42163 0.577576 
@@ -24,4 +24,4 @@ function svgNotification() {
     );
 }
 
-export default svgNotification
+export default SvgNotification
