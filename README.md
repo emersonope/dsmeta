@@ -2,7 +2,7 @@
 
 ##### In the free Heroku account, when the back is not being used, it will be temporarily inactive. When accessing the link, the back data will take about 1 minute to return to the front.
 
-### access by clicking here:  <a href="https://631bd92d214dbb0009895527--meek-yeot-66a484.netlify.app/" target="_blank" rel="noopener noreferrer">DSMetaDesign</a>.</p>
+### access by clicking here:  <a href="https://631bd92d214dbb0009895527--meek-yeot-66a484.netlify.app/" target="_blank" rel="noopener noreferrer">DSMetaPage</a>.</p>
 
 # Checklist
 
